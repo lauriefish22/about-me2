@@ -33,3 +33,12 @@ header .logo {
 main {
     padding: 20px;
 }
+
+#monkeyfacts {
+    font-style: italic;
+    font-weight: 800;
+}
+
+.paramonkey {
+    background-color: darkkhaki;
+}
